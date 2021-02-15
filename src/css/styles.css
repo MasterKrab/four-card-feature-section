@@ -154,12 +154,6 @@ body{
 }
 
 @media screen and (min-width: 1080px){
-
-/*    .card{
-      width: 320px;
-      max-width: 350px;
-   } */
-
    .card:first-child,
    .card:last-child{
       grid-row: 2 / 4;
